@@ -6,4 +6,4 @@
 
 ## this repositry includes 🤩⚠️ :
 Problems and its solution with python
-the solution is included in the sourcecode with java extension 
+the solution is included in the sourcecode with python extension 
